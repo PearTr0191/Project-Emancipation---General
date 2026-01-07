@@ -1,0 +1,3 @@
+(07/01)\
+<train-test-split> variables' conventional order is <X_train, X_test, y_train, y_test>\
+<.drop()> performs exclusion.\
